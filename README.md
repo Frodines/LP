@@ -1,2 +1,2 @@
 # Linguagens e Programação
-Repositório criado para armazenar as classe criadas nas aulas.
+Repositório criado os exercícios criados durante as aulas ou feitos em casa :D
